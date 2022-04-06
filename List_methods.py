@@ -34,3 +34,6 @@ print("list before sorted:", test_list_3)
 test_list_3.sort()
 
 print("sorted list: ",test_list_3)
+
+test_list_3.clear() #clearing list
+print("printing cleared list: ",test_list_3)  
